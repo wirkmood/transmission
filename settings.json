@@ -46,7 +46,7 @@
     "rpc-authentication-required": true, 
     "rpc-bind-address": "0.0.0.0", 
     "rpc-enabled": true, 
-    "rpc-password": "{804a58e38575f340faccc13411547241135276baRZx.i6sX", 
+    "rpc-password": "{804a58e38575f340fEFDFccc13411547241135276baRZx.i6sX", 
     "rpc-port": 9091, 
     "rpc-url": "/transmission/", 
     "rpc-username": "beerus", 
